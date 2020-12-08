@@ -1,5 +1,6 @@
 # Eleicoes municipais brasil
  Dados das eleições municipais entre os anos de 2004 e 2020
+ 
  Colunas:
  
  * **ANO_ELEICAO** : Ano em que foi realizado a eleição
